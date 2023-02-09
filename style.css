@@ -1,0 +1,50 @@
+body {
+    background-image: url("background-1.jpeg");
+
+    background-size: cover;
+}
+
+
+
+.searchDiv {
+    width: 50%;
+    /* or any other value that suits your needs */
+    margin: 50px auto;
+    text-align: center;
+}
+
+label {
+    color: #fff;
+    padding-left: 10px;
+    float: left;
+}
+
+input{
+    height: 2.4rem;
+    width: 75%;
+}
+
+.page-header {
+    color: #fff;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+
+
+.info-container {
+    /* background-color: #fff; */
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    width: 20rem;
+    border: none;
+    padding-bottom: 15px;
+    display: inline-block;
+    margin: 15px;
+    padding-left: 5px;
+}
+
+.results-container {
+    margin: 0 auto;
+}
