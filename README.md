@@ -1,4 +1,5 @@
 Weather 4U - A Simple Weather Application
+
 A weather application that allows the user to search for the weather in a specific city by making an API call to the OpenWeatherMap API. The application displays the location, weather, temperature, feels like temperature, pressure, and humidity.
 
 Key Features
@@ -12,6 +13,7 @@ Enter a city name in the input field
 Click the search button
 The weather data will be displayed
 To remove a search result, click the "Remove" button next to it
+
 Built With
 HTML
 CSS
